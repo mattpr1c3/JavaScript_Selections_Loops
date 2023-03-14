@@ -26,4 +26,3 @@ console.log("EXERCISE 3:\n==========\n");
 
 let i = 1;
 
-while (i <= 100)
